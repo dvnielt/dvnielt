@@ -10,15 +10,14 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##**About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
 - A passionate University-taught Fullstack developer
 - Currently learning SQL and Go for backend development
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://danielthomas.dev)
 
 <br><br>
 
